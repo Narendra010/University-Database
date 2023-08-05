@@ -1,13 +1,13 @@
 # University-Database
 I have created a University Database having relations - 
--> Department
--> Course
--> Student
--> Takes
--> Instructor
--> Teaches
--> Section
--> Advisor
+#### Department
+#### Course
+#### Student
+#### Takes
+#### Instructor
+#### Teaches
+#### Section
+#### Advisor
 
 ## Attributes of relations - 
 ### 1. Department - 
