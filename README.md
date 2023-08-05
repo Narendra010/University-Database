@@ -1,5 +1,5 @@
 # University-Database
-I have created a University Database having relations - 
+I have created a University Database having following relations. 
 #### Department
 #### Course
 #### Student
@@ -8,6 +8,8 @@ I have created a University Database having relations -
 #### Teaches
 #### Section
 #### Advisor
+
+Then created a trigger to automatically insert grades to takes table whenever the credits in student table are updated.
 
 ## Attributes of relations - 
 ### 1. Department - 
