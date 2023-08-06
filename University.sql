@@ -1,4 +1,4 @@
-/*create database univeristy;
+create database univeristy;
 use university;
 create table Department (
     Dept_name char(30),
@@ -274,4 +274,4 @@ VALUES(1,1),
 (27,9),
 (28,13),
 (29,12),
-(30,5);*/
+(30,5);
