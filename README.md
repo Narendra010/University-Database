@@ -53,3 +53,17 @@ Time_slot_id
 ### 8. Advisor
 s_id,
 i_id
+
+## Files Uploaded -
+### DDL.xlsx
+This contains the data for the tables.
+### schema.png
+Shows the schema of the database generated using Reverse Engineering in MySQL Workbench
+### University.sql
+Contains SQL code to create dataset, tables and insert values in them.
+### Trigger and update.sql
+Contains SQL code to create a trigger that will automatically update the grades in 'takes' table when an update in credits is done in 'student' table.
+### Questions.sql
+Contains the variety of questions and code to the queries that I have answered.
+### Questions Solutions.pdf
+It is a .pdf file that contains the questions along with the output of the queries for every question.
