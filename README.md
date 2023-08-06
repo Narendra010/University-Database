@@ -5,28 +5,51 @@ After the completion of databse, Done some visualizations using multiple concept
 
 ## Attributes of relations - 
 ### 1. Department - 
-Dept_name
-Building
+Dept_name,
+Building,
 Budget
 
 ### 2. Course - 
-Course_id
-Title
-Dept_name
+Course_id,
+Title,
+Dept_name,
 Credits
 
 ### 3. Student - 
-ID
-Name
-Dept_name
+ID,
+Name,
+Dept_name,
 Total_cred
 
 ### 4. Takes - 
-ID
-Course_id
-Sec_id
-Semester
-year
+ID,
+Course_id,
+Sec_id,
+Semester,
+year,
 Grade
 
 ### 5. Instructor - 
+ID,
+name,
+Dept_name,
+Salary
+
+### 6. Teaches - 
+ID, Course_id,
+Sec_id,
+Semester,
+year
+
+### 7. Section -
+Course_id,
+Sec_id,
+Semester,
+year,
+Building,
+Room_number,
+Time_slot_id
+
+### 8. Advisor
+s_id,
+i_id
