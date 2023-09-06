@@ -1,7 +1,7 @@
 # University-Database
 I have created a University Database having relations, Department, Course, Student, Takes, Instructor, Teaches, Section and Advisor.
 Then created a trigger to automatically insert grades to takes table whenever the credits in student table are updated.
-After the completion of databse, Done some visualizations using multiple concepts available in MySQL.
+After the completion of database, Done some visualizations using multiple concepts available in MySQL.
 
 ## Attributes of relations - 
 ### 1. Department - 
